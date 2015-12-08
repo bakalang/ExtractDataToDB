@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apache-commons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apache-log4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/driver"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/google"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jakarta-poi"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdom"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/svn"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/testNG"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/tomcat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Tool"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
