@@ -4,13 +4,19 @@ extract data from json format url response, or files
 
 /** data from files **/
 <csvData>
+
   <uploadFolder>D:\bak\db</uploadFolder>
+  
   <extractThread>3</extractThread>
+  
   <skipLine>1</skipLine>
   
   <column>project_no</column>
+  
   <column>depend_on</column>
+  
 </csvData>
+
 
 /** data from json **/
 <jsonData>
